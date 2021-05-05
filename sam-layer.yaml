@@ -2,8 +2,8 @@ AWSTemplateFormatVersion: '2010-09-09'
 
 Metadata:
   AWS::ServerlessRepo::Application:
-    Name: lambda-layer-awscli
-    Description: "Lambda Layer for AWS CLI"
+    Name: lambda-layer-awscli-kubectl
+    Description: "Lambda Layer for AWS CLI & kubectl"
     Author: Pahud Hsieh
     SpdxLicenseId: Apache-2.0
     LicenseUrl: LICENSE
